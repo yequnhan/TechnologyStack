@@ -1,2 +1,10 @@
 test
 commit amend
+
+Enter passphrase for key '/Users/hanyequn/.ssh/id_rsa_me':
+Received disconnect from 13.250.177.223 port 22:11: Bye Bye
+Connection to github.com closed by remote host.
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
