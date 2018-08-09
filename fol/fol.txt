@@ -1,1 +1,8 @@
 dede
+Counting objects: 3, done.
+Delta compression using up to 4 threads.
+Compressing objects: 100% (2/2), done.
+Writing objects: 100% (3/3), 314 bytes | 0 bytes/s, done.
+Total 3 (delta 0), reused 0 (delta 0)
+To github.com:yequnhan/TechnologyStack.git
+   75a59e4..0f21f8f  develop -> develop
